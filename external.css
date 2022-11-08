@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkseagreen;
+    font-style: italic;
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    color: crimson;
+}
