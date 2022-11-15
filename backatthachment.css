@@ -1,0 +1,23 @@
+h2{
+    text-decoration: underline;
+}
+.one{
+    height: 700px;
+    width: 700px;
+    background-image: url(./images/goa\ 2img.png);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+h3{
+    text-decoration: underline;
+}
+.two{
+    height: 700px;
+    width: 700px;
+    background-image: url(./images/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.two p{
+color:green;
+}

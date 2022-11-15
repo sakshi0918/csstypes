@@ -1,0 +1,27 @@
+h2{
+    text-decoration:underline;
+}
+.one{
+    height: 500px;
+    width: 500px;
+    background-image: url(./images/goa\ 2img.png);
+    overflow: visible;
+}
+h3{
+    text-decoration: underline;
+}
+.two{
+    height: 500px;
+    width: 500px;
+    background-image: url(./images/goa\ 2img.png);
+    overflow: hidden;
+}
+h4{
+    text-decoration: underline;
+}
+.three{
+    height: 500px;
+    width: 500px;
+    background-image: url(./images/goa\ 2img.png);
+    overflow: scroll;
+}
