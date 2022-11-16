@@ -1,0 +1,50 @@
+h1~h1{
+    border-left: 6px solid black;
+    border-right: 12px solid black;
+    border-top: 20px solid black;
+    border-bottom: 40px solid black;
+    
+}
+h1~h1~h1{
+    border-left: 6px solid black;
+    border-right: 12px solid black;
+    border-top: 20px solid black;
+    border-bottom: 40px solid black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+h1~h1~h1~h1{
+    
+    border-left: 6px solid blue;
+    border-right: 12px solid blue;
+    border-top: 20px solid blue;
+    border-bottom: 40px solid blue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+h1~h1~h1~h1~h1{
+    background-color: yellow;
+    border-left: 6px solid blue;
+    border-right: 12px solid blue;
+    border-top: 20px solid blue;
+    border-bottom: 40px solid blue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+h2{
+    background-color: yellow;
+    border-left: 6px solid orangered;
+    border-right: 12px solid green;
+    border-top: 20px solid blue;
+    border-bottom: 40px solid grey;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
