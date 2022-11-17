@@ -1,0 +1,25 @@
+menu{
+    position: fixed;
+    cursor: cell;
+    
+}
+ul{
+    display: block;
+}
+li{
+ float: left;
+    padding: 20px;
+    background-color: palevioletred;
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border: 5px solid white;
+}
+p{
+    float: left;
+    cursor: grab;
+}
