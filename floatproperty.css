@@ -1,0 +1,15 @@
+h1{
+    background-color: yellow;
+    border: 5px solid black;
+    display: inline;
+    float: left;
+
+}
+h1~h1{
+    background-color: palevioletred;
+    border: 5px solid blue;
+    display: inline;
+    float: right;
+    
+    
+}

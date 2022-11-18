@@ -1,0 +1,12 @@
+h1{
+    text-decoration: underline;
+}
+menu{
+    position: absolute;
+}
+ul{
+    display: block;
+}
+li{
+    list-style-image: url(images/bulletimg.png);
+}
