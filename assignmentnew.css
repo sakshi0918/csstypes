@@ -1,0 +1,60 @@
+.first{
+    margin-left: 200px;
+}
+.div{
+    display: block;
+}
+
+.main{
+    width: 700px;
+    height: 700px;
+    background-color: yellow;
+    margin-top: 100px;
+    border-top: 70px solid brown;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom: 70px solid brown;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.box1{
+    width: 335px;
+    height: 590px;
+    display: inline-block;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.one{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.two{
+    display: inline-block;
+    margin-left: 5px;
+    }
+.three{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.four{
+    display: inline-block;
+    margin-left: 5px;
+}
+.five{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.six{
+    display: inline-block;
+    margin-left: 5px;
+}
+.box2{
+    width: 335px;
+    height: 620px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+}
