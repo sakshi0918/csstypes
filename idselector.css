@@ -1,0 +1,16 @@
+#intro{
+    border: thick solid salmon;
+    border-style: dotted;
+    text-align: center;
+}
+#one{
+    color: palevioletred;
+    background-color: lightseagreen;
+    display: inline;
+}
+#two{
+    text-align: center;
+    color: blue;
+    background-color: yellow;
+    
+}

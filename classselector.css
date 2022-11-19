@@ -1,0 +1,19 @@
+.intro{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    border: thin solid salmon;
+}
+.class1{
+    
+    background-color: darksalmon;
+    display: inline;
+    border: 2px black;
+    border-style: double;
+}
+.class2{
+    float: right;
+    text-shadow: 3px 3px 3px lightcoral;
+    border: 10px lightskyblue;
+    border-style: groove;
+}

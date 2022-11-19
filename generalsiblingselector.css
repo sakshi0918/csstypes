@@ -1,0 +1,11 @@
+h1{
+    background-color: darkviolet;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+    display: inline;
+}
+h1~p{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
