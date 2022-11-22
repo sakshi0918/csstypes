@@ -1,6 +1,4 @@
-.first{
-    margin-left: 200px;
-}
+
 .div{
     display: block;
 }
@@ -16,6 +14,7 @@
     border-bottom: 70px solid brown;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
+    margin-left: 200px;
 }
 .box1{
     width: 335px;
@@ -53,8 +52,9 @@
 }
 .box2{
     width: 335px;
-    height: 620px;
+    height: 625px;
     display: inline-block;
     margin-left: 5px;
     margin-top: 5px;
+    
 }
